@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nazimkerkech.github.io//sitemap.xml
+Sitemap: https://nazimkerkech.github.io/sitemap.xml
