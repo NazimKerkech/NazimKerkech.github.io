@@ -123,8 +123,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Signal & Image Lab # blog_name will be displayed in your blog page
-blog_description: a dive into some of the practical classes I realised during my masters' degree
+blog_name: Signal Lab # blog_name will be displayed in your blog page
+blog_description: a dive into some of the practical courses I realised during my masters' degree
 permalink: /blog/:year/:title/
 
 # Pagination
