@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: Second year master's student in <a href='https://www.univ-tlse3.fr/decouvrir-nos-diplomes/master-parcours-signal-image-et-apprentissage-automatique-sia2'>Signal, Image, and Machine Learning</a> at the Toulouse 3 Paul Sabatier University | <a href='https://www.irap.omp.eu/en/homepage-en/'>IRAP</a> intern working on gamma burst classification for the SVOM space observatory.
+subtitle: >
+  Second year master's student in Signal, Image, and Machine Learning at the Toulouse 3 Paul Sabatier University.
+  <a href='https://www.irap.omp.eu/en/homepage-en/'>IRAP</a> intern working on gamma burst classification for the <a href='https://www.eoportal.org/satellite-missions/svom#scientific-objectives'>SVOM</a> space observatory.
 
 profile:
   align: right

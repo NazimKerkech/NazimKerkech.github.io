@@ -124,7 +124,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Signal Lab # blog_name will be displayed in your blog page
-blog_description: a dive into some of the practical courses I realised during my masters' degree
+blog_description: A dive into the exciting world of signal processing through hands-on practical works
 permalink: /blog/:year/:title/
 
 # Pagination
