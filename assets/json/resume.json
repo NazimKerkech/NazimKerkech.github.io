@@ -1,28 +1,25 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+  "personal details": {
+    "name": "Nazim Kerkech",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "nkerkech@gmail.com",
+    "phone": "",
+    "url": "https://nazimkerkech.github.io",
+    "summary": "Second year master's student and IRAP intern.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Toulouse",
+      "countryCode": "France"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "nazim-kerkech",
+        "url": "https://twitter.com/nazim-kerkech"
       }
     ]
   },
-  "work": [
+  "experience": [
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
@@ -33,28 +30,59 @@
       "highlights": ["Relativity"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Toulouse 3 Paul Sabatier",
+      "location": "Toulouse, France",
+      "area": "",
+      "studyType": "Master - Signal, Image and Machine Learning",
+      "startDate": "2022",
+      "endDate": "2024",
+      "score": "14.77",
+      "courses": ["Signal Processing", "Spectral Analysis", "Probability and Statistics", "Data Analysis", "Machine Learning", "Robotics", "C Programming", "Matlab", "Bibliographic Research", "Information Theory", "Analog and Digital Modulation", "Signal and Systems Modeling", "Instrumentation", "Instruments and sensors for space astrophysics", "Radar Imaging"]
+    },
+    {
+      "institution": "University of Science and Technology Houari Boumediene",
+      "location": "Algiers, Algeria",
+      "area": "",
+      "studyType": "Master - Computer Vision",
+      "startDate": "2020",
+      "endDate": "2022",
+      "score": "",
+      "courses": ["Knowledge representation and reasoning", "Graph traversal", "Game theory", "Machine learning", "Image and video processing and analysis", "Data analysis", "Image synthesis in OpenGL", "Data visualization in D3", "Network programming in Java", "Databases", "Data mining"]
+    },
+    {
+      "institution": "University of Science and Technology Houari Boumediene",
+      "location": "Algiers, Algeria",
+      "area": "",
+      "studyType": "Bachelor - Information Systems and Software Engineering",
+      "startDate": "2017",
+      "endDate": "2020",
+      "score": "",
+      "courses": ["Linear algebra", "Analysis", "Algorithmics", "Theoretical computer science", "Graph theory", "Language theory", "Propositional calculus", "Predicate calculus", "Object-oriented programming", "Software design with UML", "Relational databases", "C", "Python"]
+    }
+  ],
+  "internships": [
+    {
+      "institution": "LISIC, University of Science and Technology Houari Boumediene",
+      "location": "Algiers, Algeria",
+      "area": "",
+      "studyType": "Numeral plates recognition at the entrance of a parking lot",
+      "startDate": "2022-01",
+      "endDate": "2022-06",
+      "score": "",
+      "courses": ["Signal Processing", "Spectral Analysis", "Probability and Statistics", "Data Analysis", "Machine Learning", "Robotics", "C Programming", "Matlab", "Bibliographic Research", "Information Theory", "Analog and Digital Modulation", "Signal and Systems Modeling", "Instrumentation", "Instruments and sensors for space astrophysics", "Radar Imaging"]
+    },
+    {
+      "institution": "LRIA, University of Science and Technology Houari Boumediene",
+      "location": "Algiers, Algeria",
+      "area": "",
+      "studyType": "The problem of Propositional Satisfiability: Study and comparison of solvers",
+      "startDate": "2020-01",
+      "endDate": "2020-06",
+      "score": "",
+      "courses": ["Signal Processing", "Spectral Analysis", "Probability and Statistics", "Data Analysis", "Machine Learning", "Robotics", "C Programming", "Matlab", "Bibliographic Research", "Information Theory", "Analog and Digital Modulation", "Signal and Systems Modeling", "Instrumentation", "Instruments and sensors for space astrophysics", "Radar Imaging"]
     }
   ],
   "awards": [
@@ -133,24 +161,110 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
+  
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Python",
+      "level": "Advanced",
+      "icon": "fa-brands fa-hashtag",
+      "keywords": [
+        "Data analysis",
+        "Machine learning",
+        "Deep learning",
+        "PyTorch & TensorFlow",
+        "OpenCV",
+        "Qt"
+      ]
+    },
+    {
+      "name": "Matlab",
+      "level": "Advanced",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Signal & Image",
+        "Data analysis"
       ]
+    },
+    {
+      "name": "Signal",
+      "level": "Advanced",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Signal processing",
+        "Spectral analysis",
+        "Probability and statistics",
+        "Data analysis",
+        "Modelisation and estimation",
+        "Machine learning",
+        "Information theory",
+        "Analog and digital modulation",
+        "Instrumentation"
+      ]
+    },
+    {
+      "name": "Image",
+      "level": "Advanced",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Image processing and analysis",
+        "Object recognition",
+        "Video processing",
+        "Stereovision",
+        "CCD Sensors",
+        "Geometric corrections",
+        "Deconvolution",
+        "Machine learning",
+        "Deep learning",
+        "Image synthesis with OpenGL"
+      ]
+    },
+    {
+      "name": "Modelisation, Estimation and Optimisation",
+      "level": "Advanced",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Problem modelling",
+        "Least squares",
+        "Gradient methods",
+        "Constrained Optimization",
+        "Monte Carlo methods",
+        "Inverse problems"
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Object-oriented programming",
+        "Relational databases",
+        "Software design with UML"
+      ]
+    },
+    {
+      "name": "C/C++",
+      "level": "Advanced",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "OpenCV",
+        "Qt"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Advanced",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": []
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Arabic",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -162,16 +276,28 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "History",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Antiquity and Bronze age"
       ]
+    },
+    {
+      "name": "Philosophy",
+      "icon": "",
+      "keywords": [
+        "Absurdism",
+        "Dialectical materialism",
+        "Alber Camus",
+        "Louis Althusser",
+        "Nicos Poulantzas",
+        "Gaston Bachelard"
+      ]
+    },
+    {
+      "name": "Science fiction",
+      "icon": "",
+      "keywords": []
     }
   ],
   "references": [

@@ -3,17 +3,14 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Second year master's student in Signal, Image, and Machine Learning at the Toulouse 3 Paul Sabatier University.
-  <a href='https://www.irap.omp.eu/en/homepage-en/'>IRAP</a> intern working on gamma burst classification for the <a href='https://www.eoportal.org/satellite-missions/svom#scientific-objectives'>SVOM</a> space observatory.
+  Second year master's student | <a href='https://www.irap.omp.eu/en/homepage-en/'>IRAP</a> intern.
 
 profile:
   align: right
   image: photo_de_profil.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>nkerkech@gmail.com</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
@@ -27,3 +24,5 @@ social: true # includes social icons at the bottom of the page
 # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
 ---
+
+I am currently in the second year of my master's degree in <a href='https://www.univ-tlse3.fr/decouvrir-nos-diplomes/master-parcours-signal-image-et-apprentissage-automatique-sia2'>Signal, Image, and Machine Learning</a> at the Toulouse 3 Paul Sabatier University and I’m undertaking an internship at the <a href='https://www.irap.omp.eu/en/homepage-en/'>IRAP</a> on gamma burst classification for the <a href='https://www.eoportal.org/satellite-missions/svom#scientific-objectives'>SVOM</a> space observatory.
