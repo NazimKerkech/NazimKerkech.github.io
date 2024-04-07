@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
   Second year master's student | <a href='https://www.irap.omp.eu/en/homepage-en/'>IRAP</a> intern.
