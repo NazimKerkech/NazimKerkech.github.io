@@ -25,4 +25,4 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-I am currently in the second year of my master's degree in <a href='https://www.univ-tlse3.fr/decouvrir-nos-diplomes/master-parcours-signal-image-et-apprentissage-automatique-sia2'>Signal, Image, and Machine Learning</a> at the Toulouse 3 Paul Sabatier University and I’m undertaking an internship at the <a href='https://www.irap.omp.eu/en/homepage-en/'>IRAP</a> on gamma burst classification for the <a href='https://www.eoportal.org/satellite-missions/svom#scientific-objectives'>SVOM</a> space observatory.
+I am currently in the second year of my master's degree in <a href='https://www.univ-tlse3.fr/decouvrir-nos-diplomes/master-parcours-signal-image-et-apprentissage-automatique-sia2'>Signal, Image, and Machine Learning</a> at the Toulouse 3 Paul Sabatier University and I’m undertaking an internship at the <a href='https://www.irap.omp.eu/en/homepage-en/'>IRAP</a> on Gamma Ray Burst classification for the <a href='https://www.eoportal.org/satellite-missions/svom#scientific-objectives'>SVOM</a> space observatory.

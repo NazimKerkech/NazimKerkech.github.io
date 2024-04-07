@@ -5,7 +5,6 @@
     "image": "",
     "email": "nkerkech@gmail.com",
     "phone": "",
-    "url": "https://nazimkerkech.github.io",
     "summary": "Second year master's student and IRAP intern.",
     "location": {
       "city": "Toulouse",
@@ -65,14 +64,24 @@
   ],
   "internships": [
     {
+      "institution": "Institut de Recherche en Astrophysique et Planétologie (IRAP)",
+      "location": "Toulouse, France",
+      "area": "",
+      "studyType": "Gamma Ray Burst Classification for the SVOM mission",
+      "startDate": "2024-01",
+      "endDate": "2024-06",
+      "score": "",
+      "courses": [""]
+    },
+        {
       "institution": "LISIC, University of Science and Technology Houari Boumediene",
       "location": "Algiers, Algeria",
       "area": "",
-      "studyType": "Numeral plates recognition at the entrance of a parking lot",
+      "studyType": "License plate recognition",
       "startDate": "2022-01",
       "endDate": "2022-06",
       "score": "",
-      "courses": ["Signal Processing", "Spectral Analysis", "Probability and Statistics", "Data Analysis", "Machine Learning", "Robotics", "C Programming", "Matlab", "Bibliographic Research", "Information Theory", "Analog and Digital Modulation", "Signal and Systems Modeling", "Instrumentation", "Instruments and sensors for space astrophysics", "Radar Imaging"]
+      "courses": [""]
     },
     {
       "institution": "LRIA, University of Science and Technology Houari Boumediene",
@@ -82,7 +91,7 @@
       "startDate": "2020-01",
       "endDate": "2020-06",
       "score": "",
-      "courses": ["Signal Processing", "Spectral Analysis", "Probability and Statistics", "Data Analysis", "Machine Learning", "Robotics", "C Programming", "Matlab", "Bibliographic Research", "Information Theory", "Analog and Digital Modulation", "Signal and Systems Modeling", "Instrumentation", "Instruments and sensors for space astrophysics", "Radar Imaging"]
+      "courses": [""]
     }
   ],
   "awards": [
@@ -314,12 +323,16 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Searching for periodicities in irregularly sampled signals in paleoclimatology",
+      "date": "2023"
+    },
+    {
+      "name": "Polyp localization and tracking",
+      "date": "2021"
+    },
+    {
+      "name": "Face recognition with LBP and HOG",
+      "date": "2021"
     }
   ]
 }
